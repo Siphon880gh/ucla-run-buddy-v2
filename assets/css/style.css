@@ -58,7 +58,7 @@ header nav ul li a {
 /* Apply styles to Hero section */
 .hero {
     height: 600px;
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/flipped-hero-image.jpg");
     background-size: cover; /* Todo: Review; Other CSS values */
     background-position: center;
 }
