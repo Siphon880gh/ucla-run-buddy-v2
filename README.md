@@ -1,4 +1,16 @@
-# UCLA Demo: Run Buddy
+# Run Buddy, Inc
 
-View the [landing page](https://Siphon880gh.github.io/ucla-run-buddy).
-<!-- Todo: Review; Create a link in Markdown with [Text](link) >
+## Purpose
+A website that offers fitness training services. 
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
