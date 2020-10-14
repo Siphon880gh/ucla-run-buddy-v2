@@ -1,1 +1,1 @@
-test-branch.txt conflict
+test-branch.txt conflict2
