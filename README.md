@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://siphon880gh.github.io/ucla-run-buddy-v2/
 
 ## Contribution
 Made with ❤️ by Weng Fei Fung.
