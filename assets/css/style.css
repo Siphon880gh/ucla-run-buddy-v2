@@ -414,9 +414,12 @@ footer a {
         flex: 1 100%;
     }
 
-    footer h2, footer div {
-        text-align: center;
-        width: 100%;
+    footer > * {
+        flex: 0 100%;
+        text-align: center !important;
+    }
+    footer > *:nth-child(2) {
+        margin-top: 10px;
     }
 }
 
@@ -424,9 +427,6 @@ footer a {
     section {
       padding: 30px 15px;
     }
-}
-
-@media screen and (max-width: 768px) {
 
     section {
         padding: 30px 15px;
